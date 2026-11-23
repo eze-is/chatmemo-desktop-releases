@@ -1,0 +1,25 @@
+{
+  "version": "1.0.13",
+  "files": {
+    "chatmemo-1.0.13-arm64.dmg": {
+      "sha256": "39e733ff428f0786aedf0e79a5e82217284213ae1fa393a34f1738124268273d",
+      "size": 152520163
+    },
+    "chatmemo-1.0.13-arm64.zip": {
+      "sha256": "aa7775f0dfea98ab13c55270c99e7f1f70f91d284fa6aa24d5f4f05981cc9e60",
+      "size": 145833574
+    },
+    "chatmemo-1.0.13-x64.dmg": {
+      "sha256": "fc13cca167116ccb98cd920c43136197686bb01c62012ad3c213b35f613007cc",
+      "size": 156305749
+    },
+    "chatmemo-1.0.13-x64.zip": {
+      "sha256": "7246cae4ad5a274cdea794ccbadcdb244336b48054b86088778c24311d0f257c",
+      "size": 149670682
+    },
+    "chatmemo-1.0.13-x64.exe": {
+      "sha256": "dc942d1c3e7607469585af2e531038d6636df4c391234a6a9f0339a113a1e7d2",
+      "size": 128940198
+    }
+  }
+}
